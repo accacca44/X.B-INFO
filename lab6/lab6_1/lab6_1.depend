@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569476490 source:d:\akossska\lab6\lab6_1\main.cpp
+	<iostream>
+	<fstream>
+
